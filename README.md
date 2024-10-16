@@ -63,6 +63,7 @@ GIVEN DATA
 ![Screenshot 2024-10-16 102110](https://github.com/user-attachments/assets/c79d923c-8bc3-4235-842f-41d47a8be319)
 
 PREDICTION
+
 ![Screenshot 2024-10-16 102121](https://github.com/user-attachments/assets/20682145-dd1f-4f07-9de5-25731f090b7d)
 
 FINIAL PREDICTION
