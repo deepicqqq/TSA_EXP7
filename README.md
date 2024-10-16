@@ -1,7 +1,4 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
-
-
 
 ### AIM:
 To Implementat an Auto Regressive Model using Python
